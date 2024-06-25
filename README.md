@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fa Shalat Budhi Utomo</title>
+    <title>Fa Shalat Budhi Utomo Personal Page</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -57,7 +57,7 @@
     <div class="container">
         <section class="bio">
             <h2>About Me</h2>
-            <p>Saya adalah seorang pekerja keras, ambisius, dan visioner. Saya telah berpengalaman dalam berbagai bidang usaha dan pekerjaan yang menjadikan saya memiliki karakter yang kuat dalam setiap bisnis dan jabatan yang saya jalankan. Saat ini saya memiliki sebuah impian untuk membangun sebuah perusahaan yang besar, kuat secara finansial dan tentunya dapat bermanfaat bagi banyak orang.</p>
+            <p>I am a hardworking, ambitious, and visionary individual. I have experience in various fields of business and work, which has given me a strong character in every business and position I undertake. Currently, I have a dream to build a large company that is financially strong and, of course, beneficial to many people.</p>
         </section>
         <section class="contact">
             <h2>Contact Information</h2>
