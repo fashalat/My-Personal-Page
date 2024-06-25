@@ -1,5 +1,4 @@
-# my-personal-web
-<!DOCTYPE html>
+# My Personal Page
 <html lang="en">
 <head>
     <meta charset="UTF-8">
